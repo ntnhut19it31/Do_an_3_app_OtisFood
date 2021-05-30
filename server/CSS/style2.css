@@ -1,0 +1,23 @@
+
+.star{
+	color: #FFD700;
+}
+.col-md-7 h2{
+	color: #555;
+}
+.price1{
+	color: #8B0000;
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+#home h3,
+#menu1 h3,
+#menu2 h3{
+	color: #f2525e;
+}
+.flash-inf{
+	background: red;
+	color: #fff;
+	width: 40px;
+}
